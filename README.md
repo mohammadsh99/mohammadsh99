@@ -14,7 +14,8 @@ I develop full-stack applications, backend services, AI-powered tools, and autom
 - **Backend:** Node.js, Express, Spring Boot, FastAPI, REST APIs
 - **Frontend:** React, Tailwind CSS
 - **Databases:** PostgreSQL, MongoDB, MySQL, pgvector
-- **AI:** LLMs, RAG, Ollama, FAISS, OpenCV
+- **AI:** LLMs, RAG, Ollama, vLLM, FAISS, OpenCV
+- **LLM Serving & Performance Benchmarking:** Streaming latency, time to first text, concurrent-request throughput
 - **Testing:** Playwright, Jest, Vitest, pytest
 - **Tools:** Git, Linux, Docker
 
@@ -28,6 +29,7 @@ I develop full-stack applications, backend services, AI-powered tools, and autom
 | [Linux Network Diagnostics](https://github.com/mohammadsh99/linux-network-diagnostics) | Python/Linux CLI for network diagnostics, TCP/DNS checks, socket benchmarking, and pytest coverage. |
 | [Real-Time Chat App](https://github.com/mohammadsh99/realtime-chat-app) | React, Node.js/Express, MongoDB, and Socket.IO for authenticated one-to-one messaging. |
 | [MERN Product Store](https://github.com/mohammadsh99/mern-product-store) | Product management with React, Node.js/Express, MongoDB, and Zustand. |
+| [LLM Serving Benchmarks](https://github.com/mohammadsh99/llm-serving-benchmarks) | Python benchmarks of local Ollama and CPU-based vLLM serving, measuring streaming latency, time to first text, and concurrent request throughput. |
 
 ## Explore My Full Portfolio
 
